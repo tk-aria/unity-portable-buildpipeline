@@ -1,0 +1,32 @@
+{
+  "name": "com.ariasdk.build-pipeline",
+  "version": "0.1.0",
+  "unity": "2018.3",
+  "displayName": "Portable BuildPipeline",
+  "description": "[Todo] description, how to use.",
+  "category": "Unity",
+  "keywords": [
+    "Unity",
+    "UPM"
+  ],
+  "dependencies": {
+    "com.unity.scriptablebuildpipeline": "1.19.6"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "how to use.",
+      "path": "Samples~/Example"
+    }
+  ],
+  "homepage": "https://tk3118.hatenablog.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tk-aria/build-pipeline.git"
+  },
+  "author": {
+    "name": "tkaria",
+    "url": "https://tk3118.hatenablog.com"
+  },
+  "license": "MIT"
+}
